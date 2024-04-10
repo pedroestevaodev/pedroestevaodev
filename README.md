@@ -7,6 +7,24 @@ With over 2 years of experience in the field, I’ve had the opportunity to work
 
 I am always seeking knowledge and staying up-to-date to enhance my abilities. If you’d like to exchange ideas, collaborate on projects, or simply chat about technology, feel free to reach out! 👋
 
+## 🌐 Connect with me!
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4493F8&color:0000)](mailto:contato@pedroestevao.com)
+![Static Badge](https://img.shields.io/badge/Email-%234493F8?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0))
+![Static Badge](https://img.shields.io/badge/Email-%231073E7?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0))
+
+
+![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft%20outlook&logoColor=4493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0))
+![Static Badge](https://img.shields.io/badge/Email-4493F8?style=for-the-badge&logo=microsoft%20outlook&logoColor=4493F8&labelColor=rgba(0%2C0%2C0%2C0))
+
+
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contato@pedroestevao.com)
+![Static Badge](https://img.shields.io/badge/Email?logo=email&logoColor=%234493F8&color=rgba(0%2C0%2C0%2C0))
+![Static Badge](https://img.shields.io/badge/Email?style=for-the-badge&logo=gitlab&logoColor=blue&labelColor=rgba(0%2C0%2C0%2C0)&color=%23FFF)
+
+
+
 <!--
 **Pedro-Estevao/Pedro-Estevao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
