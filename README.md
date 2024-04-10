@@ -1,5 +1,5 @@
-[![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=5000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg)
-[![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=5000&color=1073E7&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-light-mode-only)](https://git.io/typing-svg)
+[![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=5000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=5000&color=1073E7&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-light-mode-only)](https://git.io/typing-svg#gh-light-mode-only)
 
 <!--
 **Pedro-Estevao/Pedro-Estevao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
