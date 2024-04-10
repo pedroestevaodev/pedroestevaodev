@@ -11,6 +11,8 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 
 [![E-mail Dark](https://img.shields.io/badge/-Email-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](mailto:contato@pedroestevao.com#gh-dark-mode-only)
 [![E-mail Light](https://img.shields.io/badge/-Email-%231073E7?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](mailto:contato@pedroestevao.com#gh-light-mode-only)
+[![LinkedIn Dark](https://img.shields.io/badge/-LinkedIn-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-dark-mode-only)
+[![LinkedIn Light](https://img.shields.io/badge/-LinkedIn-%231073E7?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-light-mode-only)
 
 
 <!--
