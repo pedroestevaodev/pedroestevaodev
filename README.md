@@ -9,11 +9,19 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 
 ## 🌐 Connect with me!
 
-[![E-mail Dark](https://img.shields.io/badge/-Email-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](mailto:contato@pedroestevao.com#gh-dark-mode-only)
-[![E-mail Light](https://img.shields.io/badge/-Email-%231073E7?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](mailto:contato@pedroestevao.com#gh-light-mode-only)
-[![LinkedIn Dark](https://img.shields.io/badge/-LinkedIn-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-dark-mode-only)
-[![LinkedIn Light](https://img.shields.io/badge/-LinkedIn-%231073E7?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-light-mode-only)
+[![E-mail Dark](https://img.shields.io/badge/Email-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=gmail&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](mailto:contato@pedroestevao.com#gh-dark-mode-only)
+[![E-mail Light](https://img.shields.io/badge/Email-%231073E7?style=for-the-badge&logo=gmail&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](mailto:contato@pedroestevao.com#gh-light-mode-only)
+[![LinkedIn Dark](https://img.shields.io/badge/LinkedIn-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-dark-mode-only)
+[![LinkedIn Light](https://img.shields.io/badge/LinkedIn-%231073E7?style=for-the-badge&logo=linkedin&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](https://www.linkedin.com/in/pedro-estevao/#gh-light-mode-only)
 
+[![Gmail Dark](https://img.shields.io/badge/Gmail-%234493F8?style=for-the-badge&logo=gmail&logoColor=white#gh-dark-mode-only)](mailto:contato@pedroestevao.com#gh-dark-mode-only)
+[![Gmail Light](https://img.shields.io/badge/Gmail-%231073E7?style=for-the-badge&logo=gmail&logoColor=white#gh-light-mode-only)](mailto:contato@pedroestevao.com#gh-light-mode-only)
+
+[![Gmail](https://img.shields.io/badge/Gmail-%234493F8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pedroestevao.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234493F8?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:contato@pedroestevao.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-%231073E7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pedroestevao.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231073E7?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:contato@pedroestevao.com)
 
 <!--
 **Pedro-Estevao/Pedro-Estevao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
