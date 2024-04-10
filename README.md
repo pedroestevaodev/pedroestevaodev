@@ -47,6 +47,9 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&theme=transparent)
 
 ## 🌐 Connect with me!
 
