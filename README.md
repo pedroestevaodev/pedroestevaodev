@@ -52,8 +52,8 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 [![Anurag's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
 
 ## 🌐 Connect with me!
 
