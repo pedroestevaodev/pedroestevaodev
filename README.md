@@ -50,7 +50,7 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 ## GitHub Stats
 
 ![Anurag's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)
-![Anurag's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7deb3&theme=transparent#gh-light-mode-only)
+![Anurag's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)
 
 ## 🌐 Connect with me!
 
