@@ -7,14 +7,6 @@ With over 2 years of experience in the field, I’ve had the opportunity to work
 
 I am always seeking knowledge and staying up-to-date to enhance my abilities. If you’d like to exchange ideas, collaborate on projects, or simply chat about technology, feel free to reach out! 👋
 
-## GitHub Stats
-
-[![Anurag's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
-
 ## 🖥 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -54,6 +46,14 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+## 👾 GitHub Stats
+
+[![Anurag's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent#gh-dark-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Estevao&layout=compact&langs_count=10&show_icons=true&count_private=true&text_color=636c76&border_radius=10&border_color=d0d7de&theme=transparent#gh-light-mode-only)](https://github.com/Pedro-Estevao/github-readme-stats#gh-light-mode-only)
 
 ## 🌐 Connect with me!
 
