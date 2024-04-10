@@ -9,20 +9,8 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 
 ## 🌐 Connect with me!
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4493F8&color:0000)](mailto:contato@pedroestevao.com)
-![Static Badge](https://img.shields.io/badge/Email-%234493F8?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0))
-![Static Badge](https://img.shields.io/badge/Email-%231073E7?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0))
-
-
-![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft%20outlook&logoColor=4493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0))
-![Static Badge](https://img.shields.io/badge/Email-4493F8?style=for-the-badge&logo=microsoft%20outlook&logoColor=4493F8&labelColor=rgba(0%2C0%2C0%2C0))
-
-
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contato@pedroestevao.com)
-![Static Badge](https://img.shields.io/badge/Email?logo=email&logoColor=%234493F8&color=rgba(0%2C0%2C0%2C0))
-![Static Badge](https://img.shields.io/badge/Email?style=for-the-badge&logo=gitlab&logoColor=blue&labelColor=rgba(0%2C0%2C0%2C0)&color=%23FFF)
-
+[![E-mail Dark](https://img.shields.io/badge/-Email-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)&color=rgba(0%2C0%2C0%2C0)#gh-dark-mode-only)](mailto:contato@pedroestevao.com)
+[![E-mail Light](https://img.shields.io/badge/-Email-%231073E7?style=for-the-badge&logo=microsoft%20outlook&logoColor=%234493F8&labelColor=rgba(0%2C0%2C0%2C0)#gh-light-mode-only)](mailto:contato@pedroestevao.com)
 
 
 <!--
