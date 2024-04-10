@@ -49,7 +49,7 @@ I am always seeking knowledge and staying up-to-date to enhance my abilities. If
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Estevao&show_icons=true&count_private=true&text_color=848d97&border_radius=10&border_color=30363db3&theme=transparent)
 
 ## 🌐 Connect with me!
 
