@@ -1,11 +1,11 @@
 [![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only) 
 [![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=1073E7&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-light-mode-only)](https://git.io/typing-svg#gh-light-mode-only)
 
-I’m a front-end web developer with a strong passion for creating clean, responsive, scalable, and user-focused interfaces. With over 3 years of hands-on experience, I’ve worked on real-world projects using technologies like React.js, Next.js, TypeScript, AngularJS, and Java — integrating APIs, managing state, and deploying applications.
+I'm a front-end web developer with a strong passion for creating clean, responsive, scalable, and user-centric interfaces. With over 3 years of hands-on experience, I have worked on real projects using technologies such as React.js, Next.js, TypeScript, AngularJS, and Java, integrating APIs, managing state, and handling deployments.
 
-I’m currently pursuing a degree in Computer Science and constantly exploring new tools, patterns, and best practices to improve my work. I also have experience with Git and collaborating with multidisciplinary teams in agile environments.
+Currently, I am pursuing a degree in Computer Science and am always seeking new tools, patterns, and best practices to enhance my work. I also have experience with Git and collaborating with multidisciplinary teams in agile environments.
 
-I’m always open to learning, sharing ideas, and contributing to exciting tech projects. Feel free to reach out! 👋
+I am always open to learning, exchanging ideas, and contributing to interesting projects in the tech field. Feel free to get in touch! 👋
 
 ## 🌐 Connect with me!
 
