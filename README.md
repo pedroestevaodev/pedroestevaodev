@@ -1,11 +1,13 @@
 [![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only) 
 [![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=1073E7&random=false&width=435&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-light-mode-only)](https://git.io/typing-svg#gh-light-mode-only)
 
-I'm a front-end web developer with a strong passion for creating clean, responsive, scalable, and user-centric interfaces. With over 3 years of hands-on experience, I have worked on real projects using technologies such as React.js, Next.js, TypeScript, AngularJS, and Java, integrating APIs, managing state, and handling deployments.
+I am a Frontend Engineer with over 4 years of experience, passionate about architecting and developing clean, scalable, and user-centered applications. Currently, my main focus is on system modernization, executing complex migrations to modern React-based ecosystems (using Vite, Next.js, TypeScript, Tanstack Query, and Zustand).
 
-Currently, I am pursuing a degree in Computer Science and am always seeking new tools, patterns, and best practices to enhance my work. I also have experience with Git and collaborating with multidisciplinary teams in agile environments.
+I believe my role goes beyond just delivering screens: I build solid solutions. I have a strong commitment to software engineering principles, applying Clean Code, SOLID, and Design Patterns to ensure maintainability and high performance. My background also includes experience with AngularJS and Java, as well as a strong interest in workflow automation and complex API integrations.
 
-I am always open to learning, exchanging ideas, and contributing to interesting projects in the tech field. Feel free to get in touch! 👋
+Currently pursuing a degree in Computer Science, I work in constant collaboration with cross-functional teams in agile environments, always striving to align business goals with technical excellence.
+
+I'm always open to new challenges, exchanging ideas, and networking. Feel free to reach out!
 
 ## 🌐 Connect with me!
 
