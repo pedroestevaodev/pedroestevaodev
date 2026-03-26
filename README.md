@@ -1,4 +1,4 @@
-[![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=4493F8&random=false&width=435&height=40&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&repeat=false&color=4493F8&random=false&vCenter=truewidth=435&height=40&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&weight=600&size=25&pause=5000&color=1073E7&random=false&width=435&height=40&lines=Hello%2C+I'm+Pedro+Estev%C3%A3o!#gh-light-mode-only)](https://git.io/typing-svg#gh-light-mode-only)
 
 Hi there! My name is Pedro Estevão, and I’ve been working as a front-end developer for over 4 years. I stumbled into the world of programming by chance, loved it from day one, and I’ve been "hooked" ever since lol.
